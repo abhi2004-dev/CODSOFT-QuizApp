@@ -10,10 +10,15 @@
 
 ---
 
-### 📱 Preview
-| Home | Quiz Selection | Result |
+### 📱 App Screenshots
+
+| Home | Quiz Selection | Quiz View | Answer Submitted |
+| :---: | :---: | :---: | :---: |
+| ![Home](screenshots/1.home.jpg) | ![Selection](screenshots/3.selection.jpg) | ![Quiz](screenshots/2,quiz.jpg) | ![Answer](screenshots/5.answer.jpg) |
+
+| Correct Answer | Result Screen | Highest Score |
 | :---: | :---: | :---: |
-| ![Home](screenshots/1.home.jpg) | ![Quiz](screenshots/2,quiz.jpg) | ![Result](screenshots/7.result.jpg) |
+| ![Correct](screenshots/6.correct.jpg) | ![Result](screenshots/7.result.jpg) | ![Highest](screenshots/8.highestScore.jpg) |
 </div>
 
 ## ✨ Key Highlights
