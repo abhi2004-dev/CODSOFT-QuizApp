@@ -12,9 +12,9 @@
 
 ### 📱 App Screenshots
 
-| Home | Quiz Selection | Quiz View | Answer Submitted |
+| Home | Quiz View | Quiz Selection | Answer Submitted |
 | :---: | :---: | :---: | :---: |
-| ![Home](screenshots/1.home.jpg) | ![Selection](screenshots/3.selection.jpg) | ![Quiz](screenshots/2,quiz.jpg) | ![Answer](screenshots/5.answer.jpg) |
+| ![Home](screenshots/1.home.jpg) | ![Selection](screenshots/2,quiz.jpg) | ![Quiz](screenshots/3.selection.jpg) | ![Answer](screenshots/5.answer.jpg) |
 
 | Correct Answer | Result Screen | Highest Score |
 | :---: | :---: | :---: |
